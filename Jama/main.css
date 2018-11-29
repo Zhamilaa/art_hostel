@@ -1,18 +1,30 @@
-body { background-color: white;
+body { background-color: black;
+    margin:auto;
+    width:50%;
+    margin-top: 55px;
 
     
 }
 
 header {
     text-align: center;
-    font-size: 25px;
 }
-ul{
-    margin: 50px;
+a{color:white;
+font-size: 15px;
+margin-left: 55px;
 }
-ul li a{
-    margin: 50px;
+b{color:white;
+font-size:70px;
 }
-ul h1{
-    margin-top: 100px;
+h4{color:white;
+}
+.par{
+    align-content: center;
+    display: table-cell;
+    font-size:30px;
+    width: 600px;
+    height: 200px;
+    background:gold;
+    text-align: center;
+    vertical-align: middle;
 }
